@@ -31,5 +31,8 @@ print(i)
 j="-".join(["a","b"])#joint
 print(j)
 
-h="hello".find("o")
+h="hello".find("o")#find
 print(h)
+
+k="11222333344442555".count("5")
+print(k)

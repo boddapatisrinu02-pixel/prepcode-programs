@@ -1,0 +1,1 @@
+bankbalance=2500
